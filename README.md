@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnedunne
-- 👀 I’m interested in ...learning python for fun
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...learning development for fun
+- 🌱 I’m currently learning ...python, css, html, javascript
 - 📫 How to reach me ... @johnedunne
 
 <!---
